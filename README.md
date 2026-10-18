@@ -1,6 +1,6 @@
 ## Hi, I'm Mohammed Ruhan Shaikh
 
-Full-stack software engineer in Ahmedabad, strongest in React, Node.js and modern JavaScript. I build web products for real businesses, from requirements to production and support after launch.
+Full-stack software engineer in Ahmedabad, strongest in React, Node.js, Express, Prisma and MySQL. I build web products for real businesses, from requirements to production and support after launch.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/mohammedruhanshaikh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=netlify&logoColor=white)](https://mohammedruhanshaikh.netlify.app)
@@ -14,6 +14,8 @@ Full-stack software engineer in Ahmedabad, strongest in React, Node.js and moder
 | **POSitive**<br>Founder, Jul 2026 to now | Built and launched a billing SaaS for restaurants and food counters. **960+ automated tests**, a **100-outlet load test at 3x lunch peak with zero errors**, and Lighthouse **100 desktop, 98 mobile**. | [Live](https://simplypositive.app) · [Test report](https://drive.google.com/file/d/1WjLpcbM5zbcqOKLddcKHW2lXraCEhW3A/view) · [PageSpeed](https://pagespeed.web.dev/analysis?url=https://simplypositive.app/) |
 | **GroupTakey**<br>Software Engineer (Contract), Nov 2025 to now | Lead developer on **5 subscription SaaS products** used by **100+ paying businesses** with **1,000+ staff logins**, earning **over ₹10 lakh a year** in recurring revenue. Revenue-share contract. | [Letter](https://drive.google.com/file/d/1NbCxenCOHfIcRX145J8X3txAYksIGg5I/view) |
 | **Friendly Infotech**<br>Software Engineer (Freelance), May 2025 to now | **10 client projects in 17 months** across healthcare, real estate, financial services and business, as the client's main technical contact. | [Letter](https://drive.google.com/file/d/1bNOmhYk4pPZY6XMyzxUt940T3ctWSkYR/view) |
+| **Icon Websolution**<br>Web Developer Intern, Oct 2023 to Mar 2024 | **4 websites in 6 months** for healthcare, pharma and education clients, including Maa Multicare Hospital and SpeakBetter. Paid internship. | [Letter](https://drive.google.com/file/d/14kPvbE0K2SZmBP6HR1F-XJnYgDD6OJud/view) |
+| **InfoLabz IT Services**<br>Industrial Training, Jun 2021 to Apr 2022 | **11-month training** building PHP and MySQL web applications on live in-house projects. | [Certificate](https://drive.google.com/file/d/1C2g5sfUJzfGy94X3PPCXpfjorLh-v7HU/view) |
 
 <details>
 <summary><b>How POSitive is built</b></summary>
